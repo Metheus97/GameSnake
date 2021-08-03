@@ -1,2 +1,2 @@
-# Jogos_em_Python
+# Jogo da Cobrinha em Python!
  Estudando Python com jogos 
